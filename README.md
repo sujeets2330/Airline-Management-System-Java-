@@ -54,14 +54,12 @@ A comprehensive **Airline Management System** built using **Java Swing**, **MySQ
 │ │ │
 ▼ ▼ ▼
 
-• Home Frame • Validation • Tables:
-• Login Form • PNR Generation • login
-• Booking Form • Data Processing • passenger
-• Cancellation Form • Transaction Mgmt • flight
-• Boarding Pass • Error Handling • reservation
-• Flight Info • cancel
-
-text
+ - Home Frame • Validation • Tables
+ - Login Form • PNR Generation • login
+ - Booking Form • Data Processing • passenger
+ - Cancellation Form • Transaction Mgmt • flight
+ - Boarding Pass • Error Handling • reservation
+ - Flight Info • cancel
 
 ---
 
@@ -238,42 +236,42 @@ Password: admin123
 ##  Screenshots
 
 ###  Login Page
-![Login Page](src/airlinemanagementsystem/icons/login_page.png)
+![Login Page](AirlineManagementSystem/src/airlinemanagementsystem/icons/login_page.png)
 
 ---
 
 ###  Home Dashboard
-![Home Dashboard](src/airlinemanagementsystem/icons/home_page.png)
+![Home Dashboard](AirlineManagementSystem/src/airlinemanagementsystem/icons/home_page.png)
 
 ---
 
 ###  Add Customer Details
-![Add Customer](src/airlinemanagementsystem/icons/customer_details.png)
+![Add Customer](AirlineManagementSystem/src/airlinemanagementsystem/icons/customer_details.png)
 
 ---
 
 ###  Book Flight
-![Book Flight](src/airlinemanagementsystem/icons/book_flight.png)
+![Book Flight](AirlineManagementSystem/src/airlinemanagementsystem/icons/book_flight.png)
 
 ---
 
 ###  Ticket Cancellation
-![Cancel Ticket](src/airlinemanagementsystem/icons/Cancel_ticket.png)
+![Cancel Ticket](AirlineManagementSystem/src/airlinemanagementsystem/icons/Cancel_ticket.png)
 
 ---
 
 ###  Boarding Pass
-![Boarding Pass](src/airlinemanagementsystem/icons/Boarding_pass.png)
+![Boarding Pass](AirlineManagementSystem/src/airlinemanagementsystem/icons/Boarding_pass.png)
 
 ---
 
 ###  Database View – Passengers
-![Passengers Table](src/airlinemanagementsystem/icons/Passengers.png)
+![Passengers Table](AirlineManagementSystem/src/airlinemanagementsystem/icons/Passengers.png)
 
 ---
 
 ###  Database View – Reservations
-![Reservations Table](src/airlinemanagementsystem/icons/Reservations.png)
+![Reservations Table](AirlineManagementSystem/src/airlinemanagementsystem/icons/Reservations.png)
 
 ## Developer
 
