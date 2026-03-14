@@ -12,7 +12,6 @@ A comprehensive **Airline Management System** built using **Java Swing**, **MySQ
 - [Installation Guide](#-installation-guide)
 - [How to Use](#-how-to-use)
 - [Screenshots](#-screenshots)
-- [Future Enhancements](#-future-enhancements)
 
 ---
 
