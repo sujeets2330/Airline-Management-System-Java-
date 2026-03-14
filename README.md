@@ -280,4 +280,3 @@ Password: admin123
 Sujeet M A
 - Email : sujeetmalagundi999@gmail.com
 - LinkedIn : https://www.linkedin.com/in/sujeet-m-a-39a86b2b9/
-  
