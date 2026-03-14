@@ -47,19 +47,28 @@ A comprehensive **Airline Management System** built using **Java Swing**, **MySQ
 
 ##  System Architecture
 
-┌─────────────────┐ ┌─────────────────┐ ┌─────────────────┐
-│ Java Swing │────▶│ Business │────▶│ MySQL │
-│ (UI Layer) │ │ Logic Layer │ │ Database │
-└─────────────────┘ └─────────────────┘ └─────────────────┘
-│ │ │
-▼ ▼ ▼
+    ┌─────────────────┐ ┌─────────────────┐ ┌─────┐
+    │ Java Swing │────▶│ Business │────▶│ MySQL │
+    │ (UI Layer) │ │ Logic Layer │ │ Database │
+    └─────────────────┘ └─────────────────┘ └─────┘
+    │ │ │
+    ▼ ▼ ▼
 
+<<<<<<< HEAD
  - Home Frame • Validation • Tables
  - Login Form • PNR Generation • login
  - Booking Form • Data Processing • passenger
  - Cancellation Form • Transaction Mgmt • flight
  - Boarding Pass • Error Handling • reservation
  - Flight Info • cancel
+=======
+- Home Frame • Validation • Tables:
+- Login Form • PNR Generation • login
+- Booking Form • Data Processing • passenger
+- Cancellation Form • Transaction Mgmt • flight
+- Boarding Pass • Error Handling • reservation
+- Flight Info • cancel
+>>>>>>> 35ceab3deafeb48f8e106b7de2709722146765be
 
 ---
 
